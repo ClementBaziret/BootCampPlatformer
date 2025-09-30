@@ -22,6 +22,7 @@ download the following:
 -   [Stylized Army PackA](https://www.fab.com/listings/b2302711-8a53-4d07-b33a-732ecba0a339)
 -   [Military FREE - Low Poly 3D Models Pack](https://www.fab.com/listings/be36701c-890c-40b7-bd91-10919327f66f)
 -   [Stylized Nature Pack](https://www.fab.com/listings/b066de06-73b8-4fbe-b30c-468f5bcf7575)
+- [Low Poly Nature: Essentials](https://www.fab.com/listings/a607441d-b811-440b-a20c-59e74804c4ce)
 
 ## 🚀 Getting Started
 
