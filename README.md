@@ -24,6 +24,7 @@ download the following:
 -   [Stylized Nature Pack](https://www.fab.com/listings/b066de06-73b8-4fbe-b30c-468f5bcf7575)
 -   [Low Poly Nature: Essentials](https://www.fab.com/listings/a607441d-b811-440b-a20c-59e74804c4ce)
 -   [Free Firearm Sounds!](https://www.fab.com/listings/6f79e1d9-02d3-4a47-86cd-b2ab1bf10557)
+-   [Essential Game Music Pack](https://www.fab.com/listings/68fe8d65-8dee-4de4-8e40-6ec21a79a428)
 
 ## 🚀 Getting Started
 
@@ -31,7 +32,7 @@ download the following:
 -   Download and install the required asset packs.
 -   Open the project in **Unreal Engine 5**.
 -   Play the build or explore the project to see how the mechanics are
-    implemented
+    implemented.
 
 ------------------------------------------------------------------------
 
